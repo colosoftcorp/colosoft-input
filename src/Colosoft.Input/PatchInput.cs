@@ -3,6 +3,7 @@ using System.Linq;
 
 namespace Colosoft.Input
 {
+    [System.Text.Json.Serialization.JsonConverter(typeof(PatchInputJsonConverterFactory))]
     public abstract class PatchInput : IPatchInput
     {
         private readonly List<string> properties = new List<string>();

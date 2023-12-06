@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9A111BAB-835D-40F5-8272-045E7C1C485A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colosoft.Input", "src\Colosoft.Input\Colosoft.Input.csproj", "{F0A6BB43-908E-48D6-8A5B-4B6FF9958578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colosoft.Input", "src\Colosoft.Input\Colosoft.Input.csproj", "{F0A6BB43-908E-48D6-8A5B-4B6FF9958578}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
